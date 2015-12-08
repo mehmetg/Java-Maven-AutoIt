@@ -12,8 +12,9 @@ You may need to minimize the browser to see it, if you take over the control of 
 
 ``` export SAUCE_USERNAME=<username>```<br>
 ``` export SAUCE_ACCESS_KEY=<key>```<br>
-``` export AUTOIT_FILE=<full path to file>```<br>
+``` export AUTOIT_FILE=<full path to file>```<br> 
+You should point it to the included hello.exe file
 
-###Thest Run:
+###Test Run:
 
 ```mvn test```
