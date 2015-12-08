@@ -1,3 +1,4 @@
+![alt](https://saucelabs.com/images/sauce-labs-logo.png)
 ##Java-Maven-AutoIt Example
 
 Uploads hello.exe and runs it as part of the test run. It should display a "Hello World!" message box with an OK button.
